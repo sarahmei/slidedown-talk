@@ -1,0 +1,49 @@
+.slideone {
+  background: #FFFFFF url("images/slidedown-front-page.jpg") no-repeat fixed right;
+}
+
+.bigger {
+  font-size: 150%;
+  font-family:"Times New Roman",Georgia,Serif;
+}
+
+.biggerbg {
+  font-size: 150%;
+  font-family:"Times New Roman",Georgia,Serif;
+  background: #009999;
+}
+
+.alternatives {
+  background: url("images/EssjayNZ-seagull.jpg") no-repeat fixed left;
+  font-size: 150%;
+  font-family:"Times New Roman",Georgia,Serif;
+}
+
+.posright {
+  position: relative;
+  left: 350px;
+}
+
+.sky {
+  background: #8AA1C0 url("images/belleradio-seagull.jpg") no-repeat fixed top left;
+  font-family:"Times New Roman",Georgia,Serif;
+}
+
+.windows {
+  background: url("images/windows-logo.jpg") no-repeat fixed center;
+}
+
+.ruby {
+  font-family:"Times New Roman",Georgia,Serif;
+  background: url("images/ruby-logo.jpg") no-repeat fixed right;
+}
+
+.photo-credits {
+  font-family:"Times New Roman",Georgia,Serif;
+  background: #ffffff;
+  width: 100%;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: 50%;
+}
+
