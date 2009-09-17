@@ -172,7 +172,8 @@ FileUtils.cd(Dir.pwd) {|d| return `#{cmd}`}
 
 ## Thank you!
 ## &nbsp;
-#### Sarah Mei
+#### github.com/sarahmei/slidedown-talk
+#### &nbsp;
 ##### @sarahmei
 ##### sarahmei@gmail.com
 # &nbsp;
